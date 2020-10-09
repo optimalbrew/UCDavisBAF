@@ -5,23 +5,7 @@ slideOptions:
 ---
 
 # Foundations of Bitcoin
-Shreemoy Mishra, IOV Labs
 
-
----
-
-## About me
-- Researcher at IOVLabs.org 
-    - RSK Blockchain:  https://www.rsk.co/
-    - EVM smart contracts 'with Bitcoin'
-- Former academic economist and engineer
-- IIITD, Vassar, Oberlin, UT Austin (PhD) 
-- Interface of econ + blockchain infrastructure 
-
----
-
-## Great to be here!
-Thanks to ExpoLab, UC Davis, BAF and Blockchain at Davis
 
 ---
 
